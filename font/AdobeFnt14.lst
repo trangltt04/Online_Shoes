@@ -1,0 +1,41 @@
+%!Adobe-FontList 1.14
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:UTM-Duepuntozero
+FamilyName:UTM Duepuntozero
+StyleName:Regular
+FullName:UTM Duepuntozero
+MenuName:UTM Duepuntozero
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\HTML5 & CSS3\DETHI13\Font\UTM Duepuntozero.ttf
+DataFormat:sfntData
+FileLength:47972
+FileModTime:1697504879
+WeightClass:400
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:UTMDuepuntozeroBold
+FamilyName:UTM Duepuntozero
+StyleName:Bold
+FullName:UTMDuepuntozeroBold
+MenuName:UTM Duepuntozero
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:D:\HTML5 & CSS3\DETHI13\Font\UTM DuepuntozeroBold.ttf
+DataFormat:sfntData
+FileLength:49032
+FileModTime:1697504879
+WeightClass:700
+WidthClass:5
+AngleClass:0
+%EndFont
+
